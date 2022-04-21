@@ -1,0 +1,7 @@
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\bin\Debug\EP09_Array.exe.config
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\bin\Debug\EP09_Array.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\bin\Debug\EP09_Array.pdb
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\obj\Debug\EP09_Array.csprojAssemblyReference.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\obj\Debug\EP09_Array.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\obj\Debug\EP09_Array.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP09_Array\obj\Debug\EP09_Array.pdb

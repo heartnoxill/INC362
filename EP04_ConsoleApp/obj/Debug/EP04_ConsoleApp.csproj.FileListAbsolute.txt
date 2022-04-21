@@ -1,0 +1,7 @@
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\bin\Debug\EP04_ConsoleApp.exe.config
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\bin\Debug\EP04_ConsoleApp.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\bin\Debug\EP04_ConsoleApp.pdb
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\obj\Debug\EP04_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\obj\Debug\EP04_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\obj\Debug\EP04_ConsoleApp.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP04_ConsoleApp\obj\Debug\EP04_ConsoleApp.pdb

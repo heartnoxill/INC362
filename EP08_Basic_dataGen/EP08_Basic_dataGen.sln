@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP08_Basic_dataGen", "EP08_Basic_dataGen.csproj", "{9213B6FE-35E2-45C6-B1AE-F05C67088A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9213B6FE-35E2-45C6-B1AE-F05C67088A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9213B6FE-35E2-45C6-B1AE-F05C67088A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9213B6FE-35E2-45C6-B1AE-F05C67088A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9213B6FE-35E2-45C6-B1AE-F05C67088A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244ECF74-C0BB-4CF2-98C0-86C7BB1F92D0}
+	EndGlobalSection
+EndGlobal

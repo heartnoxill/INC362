@@ -1,0 +1,7 @@
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\bin\Debug\EP08_Basic_dataGen.exe.config
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\bin\Debug\EP08_Basic_dataGen.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\bin\Debug\EP08_Basic_dataGen.pdb
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\obj\Debug\EP08_Basic_dataGen.csprojAssemblyReference.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\obj\Debug\EP08_Basic_dataGen.csproj.CoreCompileInputs.cache
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\obj\Debug\EP08_Basic_dataGen.exe
+C:\Users\computer\Desktop\Year 3 term 2\INC362\2022\EP08_Basic_dataGen\obj\Debug\EP08_Basic_dataGen.pdb
